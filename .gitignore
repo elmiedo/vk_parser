@@ -1,0 +1,4 @@
+/chromedriver/proxy.json
+/venv/
+/.idea/
+.env
